@@ -1,0 +1,7 @@
+git clone <http_link> -----to clone a repository
+git branch <branch_name> ----to create a new branch name
+git checkout <branch_name> ----to go to the new branch
+git add <textfile> ----- to create a new text file
+vi <textfile> ----to edit the contents of it
+git commit -m <textfile> ---to send it to the local repository
+git push origin <textfile> ----to push it to the main repo 
